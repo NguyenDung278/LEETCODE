@@ -8,6 +8,7 @@ class Solution:
             return dp[i]
         return dfs(n)
 
+## Bottom Up
 
 class Solution:
     def tribonacci(self, n: int) -> int:
