@@ -1,5 +1,5 @@
 class Solution:
-    def rotate(self, nums: List[int], k: int) -> None:
+    def rotate(self, numst) -> None:
         """
         Do not return anything, modify nums in-place instead.
         """
